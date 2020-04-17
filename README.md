@@ -5,5 +5,5 @@ Authors: Tanujit Chakraborty, Indrajit Ghosh.
 To read the paper, click on this download Link: https://lnkd.in/f28bmJ9
 
 
-![GitHub Logo](/forecast_11apr_india.png)
+![picture](forecast_11apr_ind.jpg)
 Format: ![Alt Text](url)
