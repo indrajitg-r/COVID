@@ -15,4 +15,4 @@ Here we present a summary of our work and an updated forecast for India (11 Apri
 
 Updated forecast for India (16 April - 22 April, 2020)
 
-![picture](forecast_16apr_ind.jpg)
+![picture](forecast_16apr_ind.png)
