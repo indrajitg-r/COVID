@@ -19,6 +19,6 @@ Updated forecast for India (16 April - 22 April, 2020)
 
 Updated forecast for India (23 April - 29 April, 2020)
 
-![picture](forecast_23apr_ind.png)
+![picture](india_forecast_23apr.png)
 
 The data is obtained from the following website: https://www.covid19india.org/
