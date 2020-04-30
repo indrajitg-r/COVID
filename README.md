@@ -1,4 +1,4 @@
-# COVID-19
+# Real-time forecasts of confirmed COVID-19 cases in India
 Codes and datasets for COVID-19 real time forecasts and risk assessment.
 Title: Real-time forecasts and risk assessment of novel coronavirus (COVID-19) cases: A data-driven analysis.
 Authors: Tanujit Chakraborty, Indrajit Ghosh.
@@ -20,5 +20,9 @@ Updated forecast for India (16 April - 22 April, 2020)
 Updated forecast for India (23 April - 29 April, 2020)
 
 ![picture](india_forecast_23apr.png)
+
+Updated forecast for India (30 April - 06 May, 2020)
+
+![picture](india_forecast_30apr.png)
 
 The data is obtained from the following website: https://www.covid19india.org/
