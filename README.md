@@ -15,7 +15,7 @@ Here we present a summary of our work and an updated forecast for India (11 Apri
 
 Updated forecast for India (5 June - 11 June, 2020)
 
-![picture](india_forecast_7may.png)
+![picture](india_forecast_5jun.png)
 
 Updated forecast for India (7 May - 13 May, 2020)
 
